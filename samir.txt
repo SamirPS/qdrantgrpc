@@ -1,0 +1,5 @@
+Apache Maven 3.9.7 (8b094c9513efc1b9ce2d952b3b9c8eaedaf8cbf0)
+Maven home: /Users/samirakarioh/.m2/wrapper/dists/apache-maven-3.9.7-bin/33482774/apache-maven-3.9.7
+Java version: 21.0.3, vendor: Azul Systems, Inc., runtime: /Library/Java/JavaVirtualMachines/zulu-21.jdk/Contents/Home
+Default locale: en_GB, platform encoding: UTF-8
+OS name: "mac os x", version: "15.3.1", arch: "aarch64", family: "mac"
